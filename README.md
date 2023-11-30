@@ -36,7 +36,3 @@ To test an image:
 $ python test.py -h
 $ python test.py scan/1.jpg
 ```
-
-## Training
-
-Modify `train_MORAN.sh` to generated trained weights, and replace `moran_v2_demo.pth` with it.
